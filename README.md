@@ -1,7 +1,7 @@
 # IncomingInReplyToEmailQuarantine
 In-reply-to correlation bypass for forwarded mail
 
-This snippet of code will prevent emails from being automatically promoted to Dynamics in the event that an email is attempted to be created due to in-reply-to correlation, but the recipients of the item do not match the original item being replied to. This behavior is most commonly seen when an email is forwarded to a different system user, and is unintentionally promoted to Dynamics.
+This example plug-in soultion will prevent emails from being automatically promoted to Dynamics in the event that an email is attempted to be created due to in-reply-to correlation, but the recipients of the item do not match the original item being replied to. This behavior is most commonly seen when an email is forwarded to a different system user, and is unintentionally promoted to Dynamics.
 
   This Sample Code is provided for the purpose of illustration only and is not intended to be used in a production environment.  
 
